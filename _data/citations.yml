@@ -1,28 +1,40 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-06-17'
 papers:
   U_KHWtMAAAAJ:9yKSN-GCB0IC:
-    citations: 7
+    citations: 9
     title: 'From majority to minority: a diffusion-based augmentation for underrepresented groups in skin lesion analysis'
     year: '2024'
   U_KHWtMAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: REGIONAL VOLUME AND REGIONAL FIBROSIS ADD SIGNIFICANT INFORMATION TO THE PREDICTION OF ATRIAL FIBRILLATION RECURRENCE USING MACHINE LEARNING MODEL
     year: '2025'
+  U_KHWtMAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: PO-04-212 A DOMAIN-ADAPTIVE AI ENABLES ROBUST AF DETECTION ON WEARABLE WATCH ECGS WITHOUT MANUAL LABELS
+    year: '2026'
+  U_KHWtMAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: "PO-FPII-037 REFINED SUBGROUP DETECTION USING CAUSAL MACHINE LEARNING TO IDENTIFY PATIENT SUBGROUPS WITH DIFFERENTIAL BENEFIT FROM CONVENTIONAL PVI AND FIBROSIS-GUIDED ABLATION \u2026"
+    year: '2026'
   U_KHWtMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 3
     title: 'SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation'
     year: '2025'
   U_KHWtMAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Outpatient visits decrease stroke risk in af patients
     year: '2025'
+  U_KHWtMAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: PO-FPII-043 MACHINE LEARNING IDENTIFICATION OF EARLY AF BURDEN SUBTYPES TO ENABLE PERSONALIZED BLANKING PERIODS AFTER ABLATION
+    year: '2026'
   U_KHWtMAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: 'ID: 4345715 PPG-BASED AF DETECTION WITH DEEP LEARNING FROM WEARABLE DEVICES: A SCALABLE MODEL FOR PASSIVE AF MONITORING'
     year: '2025'
   U_KHWtMAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: Weighted Temporal Decay Loss for Learning Wearable PPG Data with Sparse Clinical Labels
     year: '2026'
   U_KHWtMAAAAJ:Y0pCki6q_DkC:
@@ -45,12 +57,20 @@ papers:
     citations: 0
     title: 'ID: 4348720 PRECISION RISK STRATIFICATION IN ATRIAL FIBRILLATION USING DUAL MACHINE LEARNING MODELS FOR STROKE AND BLEEDING'
     year: '2025'
-  U_KHWtMAAAAJ:qjMakFHDy7sC:
+  U_KHWtMAAAAJ:hqOjcs7Dif8C:
     citations: 0
+    title: 'CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis'
+    year: '2026'
+  U_KHWtMAAAAJ:qjMakFHDy7sC:
+    citations: 1
     title: 'Bridging the Gap: Synthetic Data Augmentation through Inversion and Distribution Matching for Few-shot Learning'
     year: '2024'
+  U_KHWtMAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: PO-FPII-034 A REAL-WORLD NONINVASIVE DEEP LEARNING MODEL FOR HEART FAILURE SCREENING USING ONLY WEARABLE ECG-PPG BIOMETRICS
+    year: '2026'
   U_KHWtMAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 14
     title: 'FBA-Net: Foreground and background aware contrastive learning for semi-supervised atrium segmentation'
     year: '2023'
   U_KHWtMAAAAJ:u5HHmVD_uO8C:
