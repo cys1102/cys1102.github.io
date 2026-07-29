@@ -24,14 +24,26 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in Computer Science at Tulane University (TRIAD Lab, advised by [Prof. Jihun Hamm](https://www.cs.tulane.edu/~jhamm3/)), with anticipated graduation in December 2026.
+I am a PhD candidate in Computer Science at Tulane University (TRIAD Lab,
+advised by [Prof. Jihun Hamm](https://www.cs.tulane.edu/~jhamm3/)), with
+anticipated graduation in December 2026.
 
-My research focuses on **generative and predictive machine learning for healthcare**, especially:
-- synthetic data and diffusion-based methods,
-- wearable biosignal modeling (PPG/ECG),
-- medical imaging and simulation for cardiology,
-- privacy-utility analysis and robust clinical ML deployment.
+My research develops machine learning methods and evaluation tools for
+longitudinal EHRs, wearable biosignals, medical imaging, and synthetic data.
+Current projects include:
 
-I am currently interested in building machine learning systems that work under sparse and noisy clinical supervision while remaining useful in real clinical workflows.
+- long-horizon patient trajectory modeling and EHR foundation-model audits,
+- EHRDyn, a benchmark for offline reinforcement learning and off-policy
+  evaluation from EHRs,
+- clinically aligned diffusion models for medical image synthesis, and
+- sparse-label learning for wearable PPG and ECG/PPG representation transfer.
 
-You can find my publications on the [publications page](/publications/) and my full list on [Google Scholar](https://scholar.google.com/citations?user=U_KHWtMAAAAJ&hl=en). Open to Research Scientist / Applied Scientist roles.
+I focus on measurable forecasting and reliability questions supported by
+retrospective data, including uncertainty, observation effects, and model
+failure modes.
+
+You can find selected work on the [publications page](/publications/) and the
+full record on
+[Google Scholar](https://scholar.google.com/citations?user=U_KHWtMAAAAJ&hl=en).
+I am open to Research Scientist, Applied Scientist, Research Engineer, and
+Medical AI roles.

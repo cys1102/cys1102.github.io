@@ -4,7 +4,7 @@ cv:
   email: cys1102@gmail.com
   location: New Orleans, LA, USA
   image: ""
-  summary: Researcher in healthcare AI, focusing on synthetic data, wearable biosignals (PPG/ECG), and medical imaging.
+  summary: Researcher in longitudinal EHR modeling, uncertainty-aware clinical AI, wearable biosignals, medical imaging, and clinically aligned generative models.
 
   social_networks:
     - network: Google Scholar
@@ -50,7 +50,7 @@ cv:
         location: New Orleans, LA, USA
         start_date: 2022-08
         end_date: present
-        summary: Led projects on synthetic medical data, cardiac imaging, and wearable signal modeling in collaboration with clinicians.
+        summary: Lead projects on long-horizon EHR modeling, offline-RL and OPE benchmarking, synthetic medical data, cardiac imaging, and wearable signal modeling.
 
       - company: Airport Railroad Express
         position: Hardware Engineer
@@ -59,10 +59,19 @@ cv:
         end_date: 2019-05
 
     Publications:
+      - title: "EHRDyn: A Benchmark for Offline Reinforcement Learning from EHRs with Complementary Simulators"
+        authors:
+          - Yunsung Chung
+          - Han Feng
+          - Nassir Marrouche
+          - Jihun Hamm
+        publisher: Under review at KDD
+        releaseDate: 2027
+
       - title: Weighted Temporal Decay Loss for Learning Wearable PPG Data with Sparse Clinical Labels
         authors:
           - Yunsung Chung
-          - Keum San Chung
+          - Keum San Chun
           - Migyeong Gwak
           - et al.
         publisher: ICASSP
