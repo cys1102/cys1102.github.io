@@ -97,7 +97,7 @@ cv:
         publisher: Under review at NeurIPS
         releaseDate: 2026
 
-      - title: Intervention-Aware Clinical World Model for Post-OP Outcome Forecasting in Cardiology
+      - title: Intervention-Aware Clinical World Model for Post–Op Outcome Forecasting in Cardiology
         authors:
           - Yunsung Chung
           - Yingshuo Liu
@@ -106,7 +106,7 @@ cv:
           - Mary M Maleckar
           - Nassir Marrouche
           - Jihun Hamm
-        publisher: Under review at MICCAI
+        publisher: Under review at the MICCAI Workshop on Medical World Models (MWM)
         releaseDate: 2026
 
       - title: "SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation"
