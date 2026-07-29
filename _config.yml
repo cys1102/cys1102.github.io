@@ -9,12 +9,12 @@ last_name: Chung
 contact_note: >
   Feel free to reach out via email for collaboration or research discussions.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of Yunsung Chung. Research in healthcare AI, synthetic data, and wearable biosignals.
+  Personal academic website of Yunsung Chung. Research in longitudinal EHR modeling, uncertainty-aware clinical AI, wearable biosignals, and medical generative models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: healthcare ai, synthetic data, medical imaging, ppg, ecg, machine learning
+keywords: longitudinal ehr, clinical ai, healthcare machine learning, synthetic data, medical imaging, ppg, ecg, offline reinforcement learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
