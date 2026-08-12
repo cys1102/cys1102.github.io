@@ -38,6 +38,11 @@ Current projects include:
 - clinically aligned diffusion models for medical image synthesis, and
 - sparse-label learning for wearable PPG and ECG/PPG representation transfer.
 
+I also develop [ResearchWiki and ResearchOMX](/projects/researchwiki-researchomx/),
+a Git- and Markdown-based research memory and validation system for connecting
+claims, evidence, review, and human decisions without treating an AI agent as
+the scientific authority.
+
 I focus on measurable forecasting and reliability questions supported by
 retrospective data, including uncertainty, observation effects, and model
 failure modes.
