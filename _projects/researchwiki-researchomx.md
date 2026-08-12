@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ResearchWiki and ResearchOMX
+title: ResearchWiki & ResearchOMX
 description: Human-governed infrastructure for reproducible, agent-assisted research
 permalink: /projects/researchwiki-researchomx/
 importance: 1
-category: work
+category: systems
 related_publications: false
 ---
 
