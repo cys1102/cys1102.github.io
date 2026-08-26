@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-26'
 papers:
+  U_KHWtMAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology
+    year: '2026'
   U_KHWtMAAAAJ:9yKSN-GCB0IC:
     citations: 10
     title: 'From majority to minority: a diffusion-based augmentation for underrepresented groups in skin lesion analysis'
@@ -38,7 +42,7 @@ papers:
     title: Weighted Temporal Decay Loss for Learning Wearable PPG Data with Sparse Clinical Labels
     year: '2026'
   U_KHWtMAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: 'SOFA: Deep Learning Framework for Simulating and Optimizing Atrial Fibrillation Ablation'
     year: '2025'
   U_KHWtMAAAAJ:YsMSGLbcyi4C:
@@ -58,7 +62,7 @@ papers:
     title: 'ID: 4348720 PRECISION RISK STRATIFICATION IN ATRIAL FIBRILLATION USING DUAL MACHINE LEARNING MODELS FOR STROKE AND BLEEDING'
     year: '2025'
   U_KHWtMAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: 'CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis'
     year: '2026'
   U_KHWtMAAAAJ:qjMakFHDy7sC:
